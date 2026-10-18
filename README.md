@@ -138,6 +138,6 @@ The Multi-Threaded server was tested using **Apache JMeter**.
 
 # 👨‍💻 Author
 
-**Vaibhav Sharma**
+**Vaibhav Sisodia**
 
 GitHub: https://github.com/MLwithvaibhav
